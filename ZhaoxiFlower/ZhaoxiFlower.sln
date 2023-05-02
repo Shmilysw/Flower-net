@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZhaoxiFlower.WebAPI", "ZhaoxiFlower.WebAPI\ZhaoxiFlower.WebAPI.csproj", "{BD10B6B5-F929-4C8A-B579-7764E99F9F4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZhaoxiFlower.Common", "ZhaoxiFlower.Common\ZhaoxiFlower.Common.csproj", "{B1697192-EC46-48E5-AAB6-B72675BCE343}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{88E7AD6E-0269-4CB4-990B-3604D05EFFC8}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZhaoxiFlower.Model", "ZhaoxiFlower.Model\ZhaoxiFlower.Model.csproj", "{464771EF-23A9-4BBD-BAF1-8EF5C4B85DEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ZhaoxiFlower.Service", "ZhaoxiFlower.Service\ZhaoxiFlower.Service.csproj", "{4FEF1946-F083-4866-8462-5422A5E7B73C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD10B6B5-F929-4C8A-B579-7764E99F9F4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD10B6B5-F929-4C8A-B579-7764E99F9F4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD10B6B5-F929-4C8A-B579-7764E99F9F4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD10B6B5-F929-4C8A-B579-7764E99F9F4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1697192-EC46-48E5-AAB6-B72675BCE343}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1697192-EC46-48E5-AAB6-B72675BCE343}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1697192-EC46-48E5-AAB6-B72675BCE343}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1697192-EC46-48E5-AAB6-B72675BCE343}.Release|Any CPU.Build.0 = Release|Any CPU
+		{464771EF-23A9-4BBD-BAF1-8EF5C4B85DEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{464771EF-23A9-4BBD-BAF1-8EF5C4B85DEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{464771EF-23A9-4BBD-BAF1-8EF5C4B85DEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{464771EF-23A9-4BBD-BAF1-8EF5C4B85DEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FEF1946-F083-4866-8462-5422A5E7B73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FEF1946-F083-4866-8462-5422A5E7B73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FEF1946-F083-4866-8462-5422A5E7B73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FEF1946-F083-4866-8462-5422A5E7B73C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B21587A7-4A76-4E19-958A-BB6AC9ACBD06}
+	EndGlobalSection
+EndGlobal
