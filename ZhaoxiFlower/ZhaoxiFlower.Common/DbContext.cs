@@ -18,7 +18,7 @@ namespace ZhaoxiFlower.Common
             //DbType = DbType.SqlServer, //数据库类型
             //IsAutoCloseConnection = true //不设成true要手动close
 
-            ConnectionString = "Data Source=LAPTOP-TRTAAO6N;Initial Catalog=mall;Trusted_Connection = SSPI;TrustServerCertificate=true;", //连接符字串
+            ConnectionString = "Data Source=LAPTOP-TRTAAO6N\\MSSQLSERVER2022;Initial Catalog=mall;Trusted_Connection = SSPI;TrustServerCertificate=true;", //连接符字串
             DbType = DbType.SqlServer, //数据库类型
             IsAutoCloseConnection = true //不设成true要手动close
         });
